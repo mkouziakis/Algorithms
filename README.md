@@ -1,5 +1,5 @@
 # Algorithms
-Answers of an algorithm test I've been through.
+Answers of an algorithm test I've taken in the past.
 
 Questions:
 
